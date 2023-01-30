@@ -1,9 +1,9 @@
 ### Seven Languages in Seven Weeks
 
-Following a long this README [https://www.youtube.com/watch?v=crk0t5j3icg](bookclub) in their journey
+Following a long this [README bookclub](https://www.youtube.com/watch?v=crk0t5j3icg) in their journey
 to explore different programming aspects together in a bookclub form.
 
-Book assigned this time is [https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/](Seven Languages in Seven Weeks)
+Book assigned this time is [Seven Languages in Seven Weeks](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/)
 which will introduce:
 
 1. Ruby
